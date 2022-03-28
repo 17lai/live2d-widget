@@ -9,7 +9,6 @@
 ![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
-
 ## 特性 Feature
 
 在网页中添加 Live2D 看板娘。兼容 PJAX，支持无刷新加载。  
