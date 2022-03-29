@@ -58,7 +58,7 @@
 		"text": ["博主的音乐，视频和相册？", "你发现好东西啦！",  "哇！又发现宝藏了"]
 	}, {
 		"selector": ".menu-item-musics a",
-		"text": ["博主的音乐", "你发现好东西啦！",  "哇！又发现宝藏了"]
+		"text": ["博主的网页音乐播放器", "你发现好东西啦！",  "哇！又发现宝藏了"]
 	}, {
 		"selector": ".menu-item-galleries a",
 		"text": ["博主的相册", "你发现好东西啦！",  "哇！又发现宝藏了"]
@@ -66,10 +66,10 @@
 		"selector": ".menu-item-movies a",
 		"text": ["博主的视频", "你发现好东西啦！",  "哇！又发现宝藏了"]
 	}, {
-		"selector": ".menu-item-musiclive a",
+		"selector": ".menu-item-musicplayer a",
 		"text": ["博主的在线音乐播放器OnLine版", "你发现好东西啦！",  "哇！又发现宝藏了"]
 	}, {
-		"selector": ".menu-item-musicsplayer a",
+		"selector": ".menu-item-music a",
 		"text": ["博主的音乐播放器本地版", "你发现好东西啦！",  "哇！又发现宝藏了"]
 	}, {
 		"selector": ".menu-item-comments a",
@@ -113,9 +113,6 @@
 	}, {
 		"selector": ".menu-item-webssh a",
 		"text": ["SSH Web 版", "ssh 在线版！"]
-	}, {
-		"selector": ".i.fas.fa-arrow-up a",
-		"text": ["快看看这里都有什么呢？"]
 	}, {
 		"selector": ".to_comment",
 		"text": ["直达评论", "快来评论吧", "看不到评论，博主要抑郁了！"]
