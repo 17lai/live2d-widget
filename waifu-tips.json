@@ -126,7 +126,7 @@
 		"selector": ".menu-2d-saveso a",
 		"text": ["注重安全搜索的搜索引擎", "你发现了博主的私人搜索引擎啦"]
 	}, {
-		"selector": ".nav-item a",
+		"selector": ".nav-item a, .sub-nav a",
 		"text": ["快看看这里都有什么呢？"]
 	}, {
 		"selector": ".site-author",
