@@ -27,8 +27,14 @@
 		"selector": ".menu-item-home a",
 		"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦。", "点它就可以回到首页啦！", "回首页看看吧。"]
 	}, {
+		"selector": ".menu-item-nav a",
+		"text": ["博主做了个导航网站哦！", "里面有各种使用的网址导航", "快去看看里面有那些好东西。"]
+	}, {
 		"selector": ".menu-item-about a",
 		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
+	}, {
+		"selector": ".menu-item-posts a",
+		"text": ["博主的文章，分类云，标签云，和时间轴哦！", "来看看博主写了那些好东西？", "标签，分类和时间轴，博文大集合！"]
 	}, {
 		"selector": ".menu-item-tags a",
 		"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。"]
@@ -46,7 +52,88 @@
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
 	}, {
 		"selector": ".menu-item-dark a",
-		"text": ["天黑了，试一下黑暗模式？", "深色模式对眼睛比较好哦！"]
+		"text": ["天黑了，试一下黑暗模式？", "深色模式对眼睛比较好哦！",  "天黑请闭眼！"]
+	}, {
+		"selector": ".menu-item-media a",
+		"text": ["博主的音乐，视频和相册？", "你发现好东西啦！",  "哇！又发现宝藏了"]
+	}, {
+		"selector": ".menu-item-musics a",
+		"text": ["博主的音乐", "你发现好东西啦！",  "哇！又发现宝藏了"]
+	}, {
+		"selector": ".menu-item-galleries a",
+		"text": ["博主的相册", "你发现好东西啦！",  "哇！又发现宝藏了"]
+	}, {
+		"selector": ".menu-item-movies a",
+		"text": ["博主的视频", "你发现好东西啦！",  "哇！又发现宝藏了"]
+	}, {
+		"selector": ".menu-item-musiclive a",
+		"text": ["博主的在线音乐播放器OnLine版", "你发现好东西啦！",  "哇！又发现宝藏了"]
+	}, {
+		"selector": ".menu-item-musicsplayer a",
+		"text": ["博主的音乐播放器本地版", "你发现好东西啦！",  "哇！又发现宝藏了"]
+	}, {
+		"selector": ".menu-item-comments a",
+		"text": ["博主期待着和你交流", "一个留言都没，博主快气死了！",  "求求你，快来个人吧！"]
+	}, {
+		"selector": ".menu-item-contact a",
+		"text": ["快来留言", "有活人在看博客么？",  "再没人留言，博主要自闭了！"]
+	}, {
+		"selector": ".menu-item-tg a",
+		"text": ["博主自己建立的telegram电报群", "群里面人又好，说话又好听！最喜欢了！",  "加群，加群，我要加群！"]
+	}, {
+		"selector": ".menu-item-cheatsheets a",
+		"text": ["技术快查表！发现好东西了", "速查表，最爱这个了！",  "我要更多快查表！"]
+	}, {
+		"selector": ".menu-item-toolbox a",
+		"text": ["博主的工具箱，有好多好东西哦！", "各种实用工具集，我还要！",  "哇，又被你发现了博主的独门秘籍了！"]
+	}, {
+		"selector": ".menu-item-about a",
+		"text": ["里面有关于博主的各种信息", "想更了解博主吗？就在里面了",  "你发现了博主的个人信息"]
+	}, {
+		"selector": ".menu-item-aboutme a",
+		"text": ["关于博主的基本信息", "想更了解博主吗？就在里面了",  "博主的基本介绍，就在这里了"]
+	}, {
+		"selector": ".menu-item-aboutme a",
+		"text": ["关于博主的基本信息", "想更了解博主吗？就在里面了",  "博主的基本介绍，就在这里了"]
+	}, {
+		"selector": ".menu-item-aboutme a",
+		"text": ["关于博主的基本信息", "想更了解博主吗？就在里面了",  "博主的基本介绍，就在这里了"]
+	}, {
+		"selector": ".menu-item-abouttech a",
+		"text": ["关于博主的技术信息", "想更了解博主的技术吗？就在里面了",  "博主技术的基本介绍，就在这里了"]
+	}, {
+		"selector": ".menu-item-aboutporj a",
+		"text": ["关于博主项目的基本信息", "想更了解博主的开源项目吗？就在里面了",  "博主的开源项目基本介绍，就在这里了"]
+	}, {
+		"selector": ".menu-item-aboutpost a",
+		"text": ["关于博主文章的基本信息", "想更了解博主的文章吗？就在里面了",  "博主的文章基本介绍，就在这里了"]
+	}, {
+		"selector": ".menu-item-aboutneed a",
+		"text": ["阅读本博客之前，博主想让你了解的信息", "想更了解本博客吗？就在里面了",  "你发现了博客的介绍信息"]
+	}, {
+		"selector": ".menu-item-linuxtool a",
+		"text": ["博主搭建Linux 命令在线查询网站", "Linux Shell 命令速查在线版哦",  "我要学习 Linux Shell 命令"]
+	}, {
+		"selector": ".menu-item-mindmap a",
+		"text": ["在线脑图", "都说了，事脑图在线版了",  "脑图在线版，你值得拥有"]
+	}, {
+		"selector": ".menu-item-webssh a",
+		"text": ["SSH Web 版", "ssh 在线版！"]
+	}, {
+		"selector": ".i.fas.fa-arrow-up a",
+		"text": ["快看看这里都有什么呢？"]
+	}, {
+		"selector": ".menu-item a",
+		"text": ["快看看这里都有什么呢？"]
+	}, {
+		"selector": ".menu-item a",
+		"text": ["快看看这里都有什么呢？"]
+	}, {
+		"selector": ".menu-item a",
+		"text": ["快看看这里都有什么呢？"]
+	}, {
+		"selector": ".menu-item-saveso a",
+		"text": ["注重安全搜索的搜索引擎", "你发现了博主的私人搜索引擎啦"]
 	}, {
 		"selector": ".menu-item a",
 		"text": ["快看看这里都有什么呢？"]
@@ -102,10 +189,10 @@
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
 	}, {
-		"selector": ".back-to-top",
+		"selector": ".top-scroll",
 		"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
 	}, {
-		"selector": ".reward-container",
+		"selector": ".reward",
 		"text": ["我是不是棒棒哒～快给我点赞吧！", "要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	}, {
 		"selector": "#wechat",
