@@ -114,10 +114,10 @@
 		"selector": ".menu-2d-webssh a",
 		"text": ["SSH Web 版", "ssh 在线版！"]
 	}, {
-		"selector": ".comment-scroll",
+		"selector": "div#to_comment a",
 		"text": ["点击它将直达评论", "点它快速到达评论区！", "看不到评论，博主要抑郁了！"]
 	}, {
-		"selector": "#floating-toc-btn",
+		"selector": "div#floating-toc-btn",
 		"text": ["显示/隐藏目录"]
 	}, {
 		"selector": ".webpushr-toggle-bell-popup",
