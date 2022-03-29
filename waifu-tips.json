@@ -123,9 +123,6 @@
 		"selector": ".i.fas.fa-arrow-up a",
 		"text": ["快看看这里都有什么呢？"]
 	}, {
-		"selector": ".menu-item a",
-		"text": ["快看看这里都有什么呢？"]
-	}, {
 		"selector": ".to_comment",
 		"text": ["直达评论", "快来评论吧", "看不到评论，博主要抑郁了！"]
 	}, {
@@ -138,7 +135,7 @@
 		"selector": ".menu-item-saveso a",
 		"text": ["注重安全搜索的搜索引擎", "你发现了博主的私人搜索引擎啦"]
 	}, {
-		"selector": ".menu-item a",
+		"selector": ".nav-item a",
 		"text": ["快看看这里都有什么呢？"]
 	}, {
 		"selector": ".site-author",
