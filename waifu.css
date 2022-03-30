@@ -105,7 +105,7 @@
 }
 
 body.DarkMode #waifu-tips {
-    color: #6eee8b;
+    filter: invert(0.8);
 }
 
 body.DarkMode #live2d {
