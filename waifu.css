@@ -40,6 +40,7 @@
 #waifu-tips {
 	animation: shake 50s ease-in-out 5s infinite;
 	background-color: rgba(236, 217, 188, .5);
+	color: #f44336;
 	border: 1px solid rgba(224, 186, 140, .62);
 	border-radius: 12px;
 	box-shadow: 0 3px 15px 2px rgba(191, 158, 118, .2);
@@ -101,6 +102,14 @@
 
 #waifu-tool .fa-lg:hover {
 	color: #0684bd; /* #34495e */
+}
+
+body.DarkMode #waifu-tips {
+    color: #6eee8b;
+}
+
+body.DarkMode #live2d {
+    filter: invert(0.15);
 }
 
 @keyframes shake {
